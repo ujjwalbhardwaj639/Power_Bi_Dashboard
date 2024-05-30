@@ -15,12 +15,12 @@ Welcome to the Dairy Farms Dashboard repository! This project showcases an inter
 The Dairy Farms Dashboard is designed to help dairy farm managers and stakeholders monitor key performance indicators (KPIs) related to milk production, cow health, feed efficiency, and overall farm productivity. By leveraging the power of Power BI, this dashboard offers dynamic and interactive reports that aid in data-driven decision-making.
 
 ## Features
-Milk Production Analysis: Track daily, weekly, and monthly milk production trends.
-Cow Health Monitoring: Visualize health metrics and identify potential health issues in the herd.
-Feed Efficiency: Analyze the relationship between feed consumption and milk yield.
-Financial Performance: Monitor revenue, costs, and profitability over time.
-Interactive Visualizations: Use filters, slicers, and drill-through features to explore data in depth.
-User-Friendly Interface: Intuitive design for easy navigation and data interpretation.
+##### Milk Production Analysis:Track daily, weekly, and monthly milk production trends.
+##### Cow Health Monitoring: Visualize health metrics and identify potential health issues in the herd.
+##### Feed Efficiency: Analyze the relationship between feed consumption and milk yield.
+##### Financial Performance: Monitor revenue, costs, and profitability over time.
+##### Interactive Visualizations: Use filters, slicers, and drill-through features to explore data in depth.
+##### User-Friendly Interface: Intuitive design for easy navigation and data interpretation.
 
 ## Data Sources
 The dashboard integrates data from various sources, including:
@@ -50,20 +50,8 @@ Screenshots
 
 Description: Overview of the Dairy Farms Dashboard, showcasing key metrics and visualizations.
 
-
-Description: Detailed view of milk production trends and analysis.
-
-
-Description: Visualization of cow health metrics and potential issues.
-
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please follow these steps:
-
-## Fork the repository.
-Create a new branch: git checkout -b feature-branch-name.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature-branch-name.
-Create a pull request detailing your changes.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
